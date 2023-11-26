@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,php,nodejs,express,laravel,dotnet,dart&perline=10)](https://skillicons.dev)
 
 #### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp,sqlite,unity&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp,sqlite&perline=10)](https://skillicons.dev)
 
 #### Framework of Choice
 [![My Skills](https://skillicons.dev/icons?i=flutter,laravel,dotnet&perline=10)](https://skillicons.dev)

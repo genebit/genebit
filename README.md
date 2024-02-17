@@ -8,7 +8,7 @@
     </td>
     <td valign="top">
       <h4>Tools • Languages • Frameworks</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,scss,php,nodejs,express,laravel,dotnet,python,java,unity,md,latex,c,cs,dart,mysql,mongodb,firebase,gcp,sqlite&perline=10"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,scss,php,nodejs,express,laravel,react,dotnet,python,java,unity,md,latex,c,cs,dart,mysql,mongodb,firebase,gcp,sqlite&perline=10"/>
     </td>
   </tr>
 </table>

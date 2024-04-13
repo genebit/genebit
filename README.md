@@ -22,4 +22,6 @@ View my [professional portfolio](https://jbitaraportfolio.web.app) to know more 
 #### **Currently learning:**
 
 - [ ] Docker
+- [ ] HTMX
+- [ ] Svelte
 - [ ] Artificial Intelligence

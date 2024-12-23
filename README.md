@@ -2,7 +2,7 @@
 
 I am a Filipino-based Software Developer passionate about learning software technologies in general; immersed in the world of coding, designing, and software development.
 
-Currently finishing my degree as a 3rd Year `Bachelors of Science in Information Technology` in `Ateneo De Naga University.` 
+Currently finishing my degree as a 4th Year `Bachelors of Science in Information Technology` in `Ateneo De Naga University.` 
 
 View my [professional portfolio](https://jbitaraportfolio.web.app) to know more about me!
 

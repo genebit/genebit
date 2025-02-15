@@ -4,7 +4,7 @@ I am a Filipino-based Software Developer passionate about learning software tech
 
 Currently finishing my degree as a 4th Year `Bachelors of Science in Information Technology` in `Ateneo De Naga University.` 
 
-View my [professional portfolio](https://jbitaraportfolio.web.app) to know more about me!
+View my [professional portfolio](https://genbit-portfolio.web.app/) to know more about me!
 
 <table>
   <tr>

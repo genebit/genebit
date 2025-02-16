@@ -18,9 +18,3 @@ View my [professional portfolio](https://genbit-portfolio.web.app/) to know more
     </td>
   </tr>
 </table>
-
-#### **Currently learning:**
-
-- [X] Docker
-- [ ] Svelte
-- [ ] Artificial Intelligence

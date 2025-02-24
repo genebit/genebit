@@ -14,7 +14,7 @@ View my [professional portfolio](https://genbit-portfolio.web.app/) to know more
     </td>
     <td valign="top">
       <h4>Tools • Languages • Frameworks</h4>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,scss,php,nodejs,express,laravel,react,p5js,dotnet,python,unity,md,latex,cs,dart,blender,oracle,mongodb,firebase,gcp,windows,linux&perline=10"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,plsql,oracle,livewire,dotnet,express,firebase,gcp,java,laravel,nodejs,php,python,alpinejs,cs,css,dart,html,js,typescript,react,sass,unity,docker,githubactions,git,gitlab&perline=10"/>
     </td>
   </tr>
 </table>

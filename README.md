@@ -1,6 +1,6 @@
 ## 👋 **Hello, I Write Code and Stuff**
 
-I am a Filipino-based Software Developer passionate about learning software technologies in general; immersed in the world of coding, designing, and software development.
+I am a Software Engineer passionate about learning software technologies in general; immersed in the world of coding, designing, and software development.
 
 Currently finishing my degree as a 4th Year `Bachelors of Science in Information Technology` in `Ateneo De Naga University.` 
 

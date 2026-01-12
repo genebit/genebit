@@ -14,3 +14,5 @@ View my [professional portfolio](https://genbit-portfolio.web.app/) to know more
     </td>
   </tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=jbitara&abbreviated=true&label=Views&style=plastic)

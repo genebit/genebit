@@ -2,17 +2,10 @@
 
 View my [professional portfolio](https://genbit-portfolio.web.app/) to know more about me!
 
-<table>
-  <tr>
-    <td valign="top">
-      <h4>GitHub Statistics</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=genebit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Genebit's GitHub Stats">
-    </td>
-    <td valign="top">
-      <h4>Tools • Languages • Frameworks</h4>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=plsql,oracle,livewire,dotnet,express,firebase,gcp,digitalocean,laravel,nodejs,php,alpinejs,cs,css,dart,html,js,typescript,react,sass,unity,docker,githubactions&perline=10"/>
-    </td>
-  </tr>
-</table>
-
 ![](https://komarev.com/ghpvc/?username=jbitara&abbreviated=true&label=Views&style=plastic)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genebit/genebit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genebit/genebit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/genebit/genebit/output/pacman-contribution-graph.svg">
+</picture>
